@@ -1,3 +1,3 @@
 # LT_Hot100
 
-Hello, Git!
+97 deleted it!
