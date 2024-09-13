@@ -1,4 +1,3 @@
 # LT_Hot100
 
-Hello, Git!
-Hello, my win laptop!
+远程仓库同步测试
